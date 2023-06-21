@@ -12,6 +12,26 @@
 <h3> Technology used </h3>
 <a href="https://www.tinkercad.com/">TinkerCAD</a>
 
-<h3> Screenshots </h3>
-
-<p> Coming soon </p>
+<h3> Images </h3>
+<br/>
+<br/>
+<p align="center"> 
+	Electrical design <br/>
+	<a href="https://imgur.com/jLCydWr"><img src="https://i.imgur.com/jLCydWr.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Physical design <br/>
+	<a href="https://imgur.com/u4EJDDt"><img src="https://i.imgur.com/u4EJDDt.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Button 1 pressed <br/>
+	<a href="https://imgur.com/mr5kJk9"><img src="https://i.imgur.com/mr5kJk9.jpg" title="source: imgur.com" /></a>
+	<br/>
+	<br/>
+	Button 4 pressed <br/>
+	<a href="https://imgur.com/ARghpHq"><img src="https://i.imgur.com/ARghpHq.jpg" title="source: imgur.com" /></a>
+  <br/>
+	<br/>
+  Other button besides 1,4 or 7, pressed <br/>
+	<a href="https://imgur.com/MpehU1B"><img src="https://i.imgur.com/MpehU1B.jpg" title="source: imgur.com" /></a>
+</p>
